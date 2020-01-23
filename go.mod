@@ -1,4 +1,4 @@
-module goplayground
+module github.com/happyprg/goplayground
 
 go 1.13
 
