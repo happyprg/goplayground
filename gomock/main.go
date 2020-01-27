@@ -2,7 +2,6 @@ package main
 
 import (
 	my_os "goplayground/pattern/gomock/os"
-	. "goplayground/pattern/gomock/util"
 )
 
 func main() {
