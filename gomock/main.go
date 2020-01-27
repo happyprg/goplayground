@@ -1,7 +1,8 @@
 package main
 
 import (
-	my_os "goplayground/pattern/gomock/os"
+	my_os "github.com/happyprg/goplayground/gomock/os"
+	. "github.com/happyprg/goplayground/gomock/util"
 )
 
 func main() {
